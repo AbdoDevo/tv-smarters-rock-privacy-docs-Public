@@ -152,7 +152,7 @@ Depending on your location, you have rights to:
 ### CalOPPA (California Minors)
 - Right to remove content posted (if under 18)
 
-**To exercise these rights**, contact: support@tvsmarttersrock.com
+**To exercise these rights**, contact: rockteamsapps@gmail.com
 
 ---
 
@@ -195,7 +195,7 @@ We may update this policy periodically. We will:
 
 For privacy questions, concerns, or to request data access/deletion:
 
-**Email**: support@tvsmarttersrock.com  
+**Email**: rockteamsapps@gmail.com  
 **Website**: [Your support website]  
 **Mailing Address**: [Your physical address]  
 **Phone**: [Your phone number - optional]
